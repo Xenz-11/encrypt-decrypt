@@ -10,7 +10,7 @@ pkg install git
 ```python
 git clone https://github.com/Xenz-11/encrypt-decrypt
 cd encrypt-decrypt
-python run.py
+python encrypt.py
 ```
 > [single command]
 ```python
